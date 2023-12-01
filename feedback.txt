@@ -1,0 +1,7 @@
+Sanju Kanumuri (sanju 
+Raghav Pajjur (rpajjur) 
+Hafsa Khan ( hfsakhn) 
+
+This bot is similar to Google Calendar, but it could benefit from more error handling. In addition,
+more testing and being able to handle more than one meeting at a time could be implemented. 
+However, the overall implemetation given the time is a solid starting point to add more features in the future.
